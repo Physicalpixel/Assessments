@@ -17,7 +17,7 @@ svg1.append("text")
 
 
 let promises = [
-    d3.csv("data_bind.csv")
+    d3.csv("https://cdn.jsdelivr.net/gh/Physicalpixel/Stock_Data/data_bind.csv")
 ]
 
 Promise.all(promises).then(ready)
