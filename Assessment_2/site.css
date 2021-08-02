@@ -1,0 +1,17 @@
+.line {
+    fill: none;
+    stroke: DarkCyan;
+    stroke-width: 2;
+}
+
+#tooltip {
+    margin-top: 20px;
+    color: #000000;
+    font-size: 14px;
+}
+
+#container1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
